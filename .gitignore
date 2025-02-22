@@ -130,6 +130,9 @@ celerybeat.pid
 # Data files
 data/
 output_data/
+*.csv
+*.parquet
+*.json
 
 # DS Store files
 .DS_Store
